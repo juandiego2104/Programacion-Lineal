@@ -1,5 +1,7 @@
  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
+![Reguión Factible](m-grafiicoo.png)
+
 ## Pagina de programacion linel
 En esta paguina voy a mostrar las cosas mgnificas de mi estupendo curso de programacion lineal.
 
