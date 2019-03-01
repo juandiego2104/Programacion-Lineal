@@ -1,4 +1,4 @@
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script> 
+ <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
 ## Pagina de programacion linel
 En esta paguina voy a mostrar las cosas mgnificas de mi estupendo curso de programacion lineal.
@@ -12,5 +12,5 @@ Aprendedimos mucho de sympy
 
 ## Problemas
  Maximizar \(z=x_{1}+x_{2}\)
-  Sujeto a \(x_1\geq 3\)
+  Sujeto a $x_1\geq 3$
 
