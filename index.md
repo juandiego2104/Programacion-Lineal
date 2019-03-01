@@ -11,6 +11,7 @@ Aprendedimos mucho de sympy
 [Github](https://github.com/juandiego2104/Programacion-Lineal/deployments)
 
 ## Problemas
- Maximizar \(z=x_{1}+x_{2}\)
-  Sujeto a $x_1\geq 3$
+ Maximizar  $$z=x_{1}+x_{2}$$
+
+Sujeto a $$x_1 \geq 3$$
 
