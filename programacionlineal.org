@@ -1,0 +1,40 @@
+
+#+title: Programación Lineal
+#+author: Juan Diego Omaña Avila
+
+#+options: H:2
+
+
+* Teoría
+** Motivación
+
+El objetivo de la programación lineal es maximizar funciones lineales
+sobre dominios convexos, es decir, definidos sobre regiones dadas por
+desigualdades.
+
+[[file:ggg.png]]
+
+** ejemplos
+- el problema de la dieta.
+- el proble de flujo maximo.
+** convexidad
+
+un conjunto \(x\) es *convexo* si para todos \(x,y\in x\) y
+\(t\in[0,1]\) se tiene que \(tx+(1-t)y\in x\).
+
+* Herramientas computancionales
+** Emacs
+| C-x C-s | Salvar Archivo         |
+| C-x C-f | Abrir Achivo           |
+| M-q     | Formatear el Párrafo   |
+| C-x d   | editar directorios     |
+| C-g     | salir de todo          |
+| C-x 2   | divide horizontalmente |
+| C-x 3   |                        |
+** Git
+*** Github
+*** Git en la terminal
+** Python
+*** El lenguaje Python
+*** Jupyter
+** LaTeX
