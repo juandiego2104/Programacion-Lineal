@@ -1,0 +1,10 @@
+#+title: Dualidad en programación lineal
+#+author: Juan Diego Omaña Avila
+#+date: 17 Mayo de 2019
+
+* Introducción
+  La Dualidades es la manera de asociar un cierto problema con otro
+  problema de programacion lineal
+* Ejemplo
+
+* Teoremas
