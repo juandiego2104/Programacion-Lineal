@@ -33,3 +33,5 @@
 
 
 * Teoremas
+  Luego demostraremos que el minimo del problema dual es igual a el
+  maximo de el problema primitivo
