@@ -3,8 +3,22 @@
 #+date: 17 Mayo de 2019
 
 * Introducción
-  La Dualidades es la manera de asociar un cierto problema con otro
+  La Dualidad es la manera de asociar un cierto problema con otro
   problema de programacion lineal
 * Ejemplo
+  Consideremos el siguiente problema de programación lineal:
+  \begin{equation*}
+   \begin{aligned}
+   \text{Maximizar} \quad & 2x_{1}+3x_{2}\\
+   \text{sujeto a} \quad &
+     \begin{aligned}
+      4x_{1}+8x_{2} &\leq 12\\
+      2x_{1}+x_{2} &\leq 3\\
+      3x_{1}+2x_{2} &\leq 4\\
+      x_{1} &\geq  0\\
+      x_{2} &\geq 0
+     \end{aligned}
+   \end{aligned}
+   \end{equation*}
 
 * Teoremas
